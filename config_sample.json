@@ -1,0 +1,18 @@
+{
+  "grooveshark_account": {
+    "username": "",
+    "password": ""
+  },
+  "grooveshark_internals_config": {
+    "clients": {
+      "html": {
+        "revision": "20130520",
+        "password": "frenchFriedDogs"
+      },
+      "jsqueue": {
+        "revision": "20130520",
+        "password": "nuggetsOfBaller"
+      }
+    }
+  }
+}
